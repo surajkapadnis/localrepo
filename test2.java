@@ -1,1 +1,2 @@
-Syso "featurw1"
+Syso "featurw1" 
+syso 'git conflict'
